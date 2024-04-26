@@ -1,0 +1,4 @@
+.product:hover {
+    background-color: rgb(169, 169, 169);
+    cursor: pointer;
+}
